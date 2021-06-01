@@ -1,0 +1,28 @@
+.cards h3, p {
+  /*color: green;*/
+}
+
+.card-container {
+  text-align:  center;
+}
+
+.cards {
+  display:  flex;
+  height:  250px;
+  justify-content: space-around;
+  margin-bottom:  30px;
+}
+
+
+.cards img {
+  height:  100px;
+}
+
+.card {
+  width:  200px;
+  border-radius: 3px;
+  padding:  20px;
+  text-align:  center;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  border:  1px solid rgb(230,230,230);
+}
